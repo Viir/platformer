@@ -1,0 +1,16 @@
+{
+  "name": "platformer-page",
+  "version": "1.0.0",
+  "description": "webpage for platform",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "wintersmith build",
+    "start": "wintersmith preview"
+  },
+  "devDependencies": {
+    "wintersmith": "2.4.1"
+  },
+  "dependencies": {}
+}
